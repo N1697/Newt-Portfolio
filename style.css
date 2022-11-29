@@ -426,7 +426,7 @@ section{
 
 
 
-@media (max-width: 480px) {
+@media (max-width: 640px) {
     :root{    
         --h1-font-size: 3rem; 
         --h2-font-size: 2rem;
@@ -485,7 +485,17 @@ section{
         position: relative;
         border-radius: 0.5rem; /*8px*/
     }
-
+    
+    /*Contact*/
+    .leftContainer-Contact .list-Contact p{
+        font-size: 15px;
+        margin-bottom: 25px;
+        transition: all .5s ease;
+    }
+    .leftContainer-Contact .list-Contact i{ /*fa-solid: plane icon, phone icon*/
+        font-size: 15px;
+        margin-right: 10px;
+    }
     /*Home Bookmark*/
     .home-bookmark{
         position: fixed;
