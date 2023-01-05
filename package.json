@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  },
+  "name": "newt-portfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d Newt-Portfolio"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N1697/Newt-Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/N1697/Newt-Portfolio/issues"
+  },
+  "homepage": "https://github.com/N1697/Newt-Portfolio#readme",
+  "description": ""
+}
